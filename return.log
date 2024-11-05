@@ -1,0 +1,372 @@
+Sprint Name: DI Sprint 5 / id: 138
+Issue ID: DI-30
+Summary: Set up the webserver CI/CD pipeline to automate the Docker image build and deployment process.
+Status: To Do
+Team start date: None
+Team end date: None
+Assignee: Unassigned
+Sprint start date: 2024-11-04T11:02:13.351Z
+Sprint end date: 2024-11-17T00:46:08.000Z
+Story Points: 8.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 5 / id: 138
+Issue ID: DI-29
+Summary: Implement a DAG in Azure Storage account saairflow to maintain a clean environment with a retention policy of 30 days
+Status: IN TEST
+Team start date: 2024-11-04T12:03:00.000+0100
+Team end date: None
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-11-04T11:02:13.351Z
+Sprint end date: 2024-11-17T00:46:08.000Z
+Story Points: 8.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 5 / id: 138
+Issue ID: DI-28
+Summary: The GeoStatus internal webpage to read events from the PostgreSQL database and deactivate the script for populating JSON files.
+Status: BLOCKED
+Team start date: 2024-10-22T15:30:00.000+0200
+Team end date: None
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-11-04T11:02:13.351Z
+Sprint end date: 2024-11-17T00:46:08.000Z
+Story Points: 5.0
+User Blocked date: 2024-10-28T09:00:00.000+0100
+----------------------------------------
+Sprint Name: DI Sprint 5 / id: 138
+Issue ID: DI-27
+Summary: Migrate the PostgreSQL table from geologairflowdb16.postgres.database.azure.com to 192.168.40.18.
+Status: To Do
+Team start date: None
+Team end date: None
+Assignee: Unassigned
+Sprint start date: 2024-11-04T11:02:13.351Z
+Sprint end date: 2024-11-17T00:46:08.000Z
+Story Points: 8.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 5 / id: 138
+Issue ID: DI-22
+Summary: Create a script to collect issues data from Airflow and a data quality SQL table, then post the data on a Teams channel.
+Status: BLOCKED
+Team start date: 2024-10-15T11:38:00.000+0200
+Team end date: None
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-11-04T11:02:13.351Z
+Sprint end date: 2024-11-17T00:46:08.000Z
+Story Points: 5.0
+User Blocked date: 2024-10-25T11:30:00.000+0200
+----------------------------------------
+Sprint Name: DI Sprint 4 / id: 105
+Issue ID: DI-37
+Summary: Create the Geolog Digital Workshop presentation
+Status: Done
+Team start date: 2024-10-23T16:00:00.000+0200
+Team end date: 2024-10-28T12:24:00.000+0100
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-21T07:51:49.900Z
+Sprint end date: 2024-11-02T21:35:41.000Z
+Story Points: 3.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 4 / id: 105
+Issue ID: DI-29
+Summary: Implement a DAG in Azure Storage account saairflow to maintain a clean environment with a retention policy of 30 days
+Status: IN TEST
+Team start date: 2024-11-04T12:03:00.000+0100
+Team end date: None
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-21T07:51:49.900Z
+Sprint end date: 2024-11-02T21:35:41.000Z
+Story Points: 8.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 4 / id: 105
+Issue ID: DI-28
+Summary: The GeoStatus internal webpage to read events from the PostgreSQL database and deactivate the script for populating JSON files.
+Status: BLOCKED
+Team start date: 2024-10-22T15:30:00.000+0200
+Team end date: None
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-21T07:51:49.900Z
+Sprint end date: 2024-11-02T21:35:41.000Z
+Story Points: 5.0
+User Blocked date: 2024-10-28T09:00:00.000+0100
+----------------------------------------
+Sprint Name: DI Sprint 4 / id: 105
+Issue ID: DI-27
+Summary: Migrate the PostgreSQL table from geologairflowdb16.postgres.database.azure.com to 192.168.40.18.
+Status: To Do
+Team start date: None
+Team end date: None
+Assignee: Unassigned
+Sprint start date: 2024-10-21T07:51:49.900Z
+Sprint end date: 2024-11-02T21:35:41.000Z
+Story Points: 8.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 4 / id: 105
+Issue ID: DI-23
+Summary: The computation of Time data gaps to use the newest row's values by default but allow stakeholders to select linear interpolation if they wish.
+Status: Done
+Team start date: 2024-10-21T09:59:00.000+0200
+Team end date: 2024-10-25T10:33:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-21T07:51:49.900Z
+Sprint end date: 2024-11-02T21:35:41.000Z
+Story Points: 5.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 4 / id: 105
+Issue ID: DI-22
+Summary: Create a script to collect issues data from Airflow and a data quality SQL table, then post the data on a Teams channel.
+Status: BLOCKED
+Team start date: 2024-10-15T11:38:00.000+0200
+Team end date: None
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-21T07:51:49.900Z
+Sprint end date: 2024-11-02T21:35:41.000Z
+Story Points: 5.0
+User Blocked date: 2024-10-25T11:30:00.000+0200
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-36
+Summary: Review integrity tests to increase the thresholder and update TVD tests from fail to warning.
+Status: Done
+Team start date: None
+Team end date: None
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 3.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-35
+Summary: Test6 are validating all log files and the expectation was to validate only the last uploaded logs
+Status: Done
+Team start date: 2024-10-16T14:21:00.000+0200
+Team end date: 2024-10-17T18:20:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 2.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-34
+Summary: Update the internal web page to log the user that submitted the web form for tracking purposes.
+Status: Done
+Team start date: 2024-10-18T09:52:00.000+0200
+Team end date: 2024-10-21T09:51:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 3.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-33
+Summary: GeoMaintenance app stops when receive a connection error.
+Status: Done
+Team start date: 2024-10-15T16:19:00.000+0200
+Team end date: 2024-10-16T14:31:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 1.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-31
+Summary: data-sync-wellrepository-update-sync-agents-config waiting time out
+Status: Done
+Team start date: 2024-10-10T10:27:00.000+0200
+Team end date: 2024-10-10T11:18:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 1.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-22
+Summary: Create a script to collect issues data from Airflow and a data quality SQL table, then post the data on a Teams channel.
+Status: BLOCKED
+Team start date: 2024-10-15T11:38:00.000+0200
+Team end date: None
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 5.0
+User Blocked date: 2024-10-25T11:30:00.000+0200
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-21
+Summary: Install a Windows Server 2008 VMWare virtual machine to compile the GeoInfo Unit Agent Python app.
+Status: Done
+Team start date: 2024-10-08T11:53:00.000+0200
+Team end date: 2024-10-11T15:25:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 8.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-20
+Summary: Implement Auto-Update Capability for GeoInfo Agent App
+Status: Done
+Team start date: 2024-10-07T11:48:00.000+0200
+Team end date: 2024-10-11T15:38:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 5.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-19
+Summary: In the resend backup files should be able to insert the unit and the wellname on the dropdown box
+Status: Done
+Team start date: 2024-10-15T10:12:00.000+0200
+Team end date: 2024-10-15T16:57:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 3.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-16
+Summary: Logs the instructions to units in PostgreSQL table
+Status: Done
+Team start date: 2024-10-14T12:13:00.000+0200
+Team end date: 2024-10-15T16:57:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 5.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-10
+Summary: Log unit instructions into PostgreSQL
+Status: Done
+Team start date: 2024-10-14T12:13:00.000+0200
+Team end date: 2024-10-14T12:13:00.000+0200
+Assignee: Unassigned
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 5.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 3 / id: 72
+Issue ID: DI-9
+Summary: Store smoking test results in PostgreSQL
+Status: Done
+Team start date: 2024-10-08T12:43:00.000+0200
+Team end date: 2024-10-08T19:41:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-10-07T09:48:38.463Z
+Sprint end date: 2024-10-19T23:32:19.000Z
+Story Points: 3.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 2 / id: 39
+Issue ID: DI-18
+Summary: After add new unit labs the internal webapp doesn't update the new units.
+Status: Done
+Team start date: 2024-10-02T14:30:00.000+0200
+Team end date: 2024-10-03T10:37:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-09-23T08:16:19.885Z
+Sprint end date: 2024-10-05T22:00:00.000Z
+Story Points: 3.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 2 / id: 39
+Issue ID: DI-17
+Summary: In Unit agent software, get the InfluxBKF service from the network machine
+Status: Done
+Team start date: 2024-10-02T10:36:00.000+0200
+Team end date: 2024-10-03T10:38:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-09-23T08:16:19.885Z
+Sprint end date: 2024-10-05T22:00:00.000Z
+Story Points: 3.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 2 / id: 39
+Issue ID: DI-8
+Summary: Prompt unit to send files after completing
+Status: Done
+Team start date: 2024-09-27T17:00:00.000+0200
+Team end date: 2024-10-01T16:30:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-09-23T08:16:19.885Z
+Sprint end date: 2024-10-05T22:00:00.000Z
+Story Points: 8.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 2 / id: 39
+Issue ID: DI-7
+Summary: Optimize API Endpoints for Improved Performance
+Status: Done
+Team start date: 2024-09-25T10:00:00.000+0200
+Team end date: 2024-09-27T15:30:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-09-23T08:16:19.885Z
+Sprint end date: 2024-10-05T22:00:00.000Z
+Story Points: 8.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 2 / id: 39
+Issue ID: DI-6
+Summary: Improve Intranet Page Styling for User-Friendly Experience
+Status: Done
+Team start date: 2024-09-23T16:00:00.000+0200
+Team end date: 2024-09-24T10:00:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-09-23T08:16:19.885Z
+Sprint end date: 2024-10-05T22:00:00.000Z
+Story Points: 5.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 2 / id: 39
+Issue ID: DI-5
+Summary: Organize Intranet Pages by Topic
+Status: Done
+Team start date: 2024-09-26T09:00:00.000+0200
+Team end date: 2024-09-27T10:00:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-09-23T08:16:19.885Z
+Sprint end date: 2024-10-05T22:00:00.000Z
+Story Points: 3.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 2 / id: 39
+Issue ID: DI-4
+Summary: Implement Authentication and Security in Node.js Project
+Status: Done
+Team start date: 2024-09-24T11:00:00.000+0200
+Team end date: 2024-09-27T17:30:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-09-23T08:16:19.885Z
+Sprint end date: 2024-10-05T22:00:00.000Z
+Story Points: 8.0
+User Blocked date: None
+----------------------------------------
+Sprint Name: DI Sprint 2 / id: 39
+Issue ID: DI-3
+Summary: Migrate Intranet Pages to Apache Web Server within Node.js
+Status: Done
+Team start date: 2024-09-23T09:00:00.000+0200
+Team end date: 2024-09-23T13:30:00.000+0200
+Assignee: Paulo Ferreira de Meireles
+Sprint start date: 2024-09-23T08:16:19.885Z
+Sprint end date: 2024-10-05T22:00:00.000Z
+Story Points: 5.0
+User Blocked date: None
+----------------------------------------
